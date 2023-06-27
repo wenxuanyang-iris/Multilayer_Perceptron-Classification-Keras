@@ -8,9 +8,9 @@ The primary objective of this project is to train a multilayer perceptron model 
 
 Here's an example of how the data looks (*each class takes three-rows*):
 
-![](doc/img/fashion-mnist-sprite.png)
+![](img/fashion-mnist-sprite.png)
 
-<img src="doc/img/embedding.gif" width="100%">
+<img src="img/embedding.gif" width="100%">
 
 ### Labels
 Each training and test example is assigned to one of the following labels:
